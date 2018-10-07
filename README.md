@@ -1,2 +1,2 @@
 # Natural_Language_Processing
-Natural Language Processing with NLTK and Scikit-Learn
+Natural Language Processing with NLTK, SpaCy, and Scikit-Learn
