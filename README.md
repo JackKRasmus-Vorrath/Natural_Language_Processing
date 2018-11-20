@@ -1,2 +1,2 @@
 # Natural_Language_Processing
-Stanford Core NLP, SpaCy, Pattern, NLTK, and Scikit-Learn
+Gensim, SpaCy, Stanford Core NLP, Pattern, NLTK, and Scikit-Learn
