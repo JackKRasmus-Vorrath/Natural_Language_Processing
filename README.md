@@ -6,4 +6,6 @@ Latent Dirichlet Allocation <br />
 Latent Semantic Indexing <br />
 Non-Negative Matrix Factorization <br />
 K-Means++ Clustering <br />
-Agglomerative Hierarchical Clustering
+Agglomerative Hierarchical Clustering <br /><br />
+
+Gensim, SpaCy, Stanford Core NLP, Pattern, NLTK, Scikit-Learn, and Keras
