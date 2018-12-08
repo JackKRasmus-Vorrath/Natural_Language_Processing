@@ -5,6 +5,7 @@ Hierarchical Dirichlet Process <br />
 Latent Dirichlet Allocation <br />
 Latent Semantic Indexing <br />
 Non-Negative Matrix Factorization <br />
+T-Distributed Stochastic Neighbor Embedding <br />
 K-Means++ Clustering <br />
 Agglomerative Hierarchical Clustering <br /><br />
 
