@@ -1,6 +1,6 @@
 # Natural_Language_Processing
 
-Neural Networks (Doc2Vec Distributed Bag-of-Words)
+Neural Networks (Doc2Vec Distributed Bag-of-Words) 
 Hierarchical Dirichlet Process
 Latent Dirichlet Allocation
 Latent Semantic Indexing
