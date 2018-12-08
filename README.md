@@ -1,2 +1,9 @@
 # Natural_Language_Processing
-Gensim, SpaCy, Textacy, Stanford Core NLP, Pattern, NLTK, Keras, and Scikit-Learn
+
+Neural Networks (Doc2Vec Distributed Bag-of-Words)
+Hierarchical Dirichlet Process
+Latent Dirichlet Allocation
+Latent Semantic Indexing
+Non-Negative Matrix Factorization
+K-Means++ Clustering
+Agglomerative Hierarchical Clustering
