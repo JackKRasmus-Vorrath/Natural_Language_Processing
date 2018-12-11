@@ -64,7 +64,7 @@ import afinn
 from afinn import Afinn
 
 import pattern
-from pattern.en import sentiment #, mood, modality
+from pattern.en import sentiment as p_sent #, mood, modality
 
 import gensim
 from gensim import corpora, models, similarities
@@ -255,7 +255,7 @@ def get_tagged_documents(input_review_texts, stop_words, tokenizer, puncts, sent
     return all_content
 	
 def pattern_sentiment(review, threshold=0.1, verbose=False):
-    analysis = sentiment(review)
+    analysis = p_sent(review)
     sentiment_score = round(analysis[0], 3)
     sentiment_subjectivity = round(analysis[1], 3)
 
